@@ -13,3 +13,6 @@ www/vm2025/_lib/file/cache/*
 
 # Backups locais criados durante depuração
 *.bak
+
+# Binário de terceiros (PhantomJS) - grande demais para versionar
+www/vm2025/_lib/prod/third/phantomjs/linux-amd64/phantomjs
