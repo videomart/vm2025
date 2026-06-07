@@ -1,0 +1,8 @@
+.css_moeda_label, .css_moeda_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_moeda_grid_line, .css_moeda_grid_line:hover {vertical-align: top;text-align: right;}
+.css_creditos_label, .css_creditos_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_creditos_grid_line, .css_creditos_grid_line:hover {vertical-align: top;text-align: center;}
+.css_debitos_label, .css_debitos_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_debitos_grid_line, .css_debitos_grid_line:hover {vertical-align: top;text-align: center;}
+.css_subtotal_label, .css_subtotal_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_subtotal_grid_line, .css_subtotal_grid_line:hover {vertical-align: top;text-align: center;}

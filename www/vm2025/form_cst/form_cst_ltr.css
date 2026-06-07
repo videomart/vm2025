@@ -1,0 +1,12 @@
+.css_cst_label, .css_cst_label span{ }
+.css_cst_label span  span{line-height:1.5;}
+.css_cst_line, .css_cst_line >span{ }
+.css_cst_line span  span{line-height:1.5;}
+.css_cst_obj, .css_cst_obj span{text-align:right;}
+.css_cst_obj span  span{line-height:1.5;}
+.css_descricao_label, .css_descricao_label span{ }
+.css_descricao_label span  span{line-height:1.5;}
+.css_descricao_line, .css_descricao_line >span{ }
+.css_descricao_line span  span{line-height:1.5;}
+.css_descricao_obj, .css_descricao_obj span{ }
+.css_descricao_obj span  span{line-height:1.5;}

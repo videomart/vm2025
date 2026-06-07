@@ -1,0 +1,8 @@
+.css_natureza_label, .css_natureza_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_natureza_grid_line, .css_natureza_grid_line:hover {vertical-align: top;text-align: right;}
+.css_cliente_label, .css_cliente_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cliente_grid_line, .css_cliente_grid_line:hover {vertical-align: top;text-align: right;}
+.css_cod_vend_label, .css_cod_vend_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cod_vend_grid_line, .css_cod_vend_grid_line:hover {vertical-align: top;text-align: right;}
+.css_total_label, .css_total_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_total_grid_line, .css_total_grid_line:hover {vertical-align: top;text-align: right;}

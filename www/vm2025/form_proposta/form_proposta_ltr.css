@@ -1,0 +1,114 @@
+.css_id_label, .css_id_label span{font-family:Arial, sans-serif;font-size:20px;color:#000000 !important;}
+.css_id_label span  span{line-height:1.5;}
+.css_id_line, .css_id_line span{font-family:Arial, sans-serif;font-size:24px;color:#000000 !important;font-weight:bold;text-align:center;vertical-align:middle;}
+.css_id_line span  span{line-height:1.5;}
+.css_id_obj, .css_id_obj span{ }
+.css_id_obj span  span{line-height:1.5;}
+.css_id_empresa_label, .css_id_empresa_label span{ }
+.css_id_empresa_label span  span{line-height:1.5;}
+.css_id_empresa_line, .css_id_empresa_line span{text-align:left;}
+.css_id_empresa_line span  span{line-height:1.5;}
+.css_id_empresa_obj, .css_id_empresa_obj span{text-align:left;}
+.css_id_empresa_obj span  span{line-height:1.5;}
+.css_cliente_label, .css_cliente_label span{ }
+.css_cliente_label span  span{line-height:1.5;}
+.css_cliente_line, .css_cliente_line span{ }
+.css_cliente_line span  span{line-height:1.5;}
+.css_cliente_obj, .css_cliente_obj span{ }
+.css_cliente_obj span  span{line-height:1.5;}
+.css_atencao_label, .css_atencao_label span{ }
+.css_atencao_label span  span{line-height:1.5;}
+.css_atencao_line, .css_atencao_line span{ }
+.css_atencao_line span  span{line-height:1.5;}
+.css_atencao_obj, .css_atencao_obj span{ }
+.css_atencao_obj span  span{line-height:1.5;}
+.css_telefone_label, .css_telefone_label span{ }
+.css_telefone_label span  span{line-height:1.5;}
+.css_telefone_line, .css_telefone_line span{ }
+.css_telefone_line span  span{line-height:1.5;}
+.css_telefone_obj, .css_telefone_obj span{ }
+.css_telefone_obj span  span{line-height:1.5;}
+.css_email_label, .css_email_label span{ }
+.css_email_label span  span{line-height:1.5;}
+.css_email_line, .css_email_line span{ }
+.css_email_line span  span{line-height:1.5;}
+.css_email_obj, .css_email_obj span{ }
+.css_email_obj span  span{line-height:1.5;}
+.css_natureza_label, .css_natureza_label span{ }
+.css_natureza_label span  span{line-height:1.5;}
+.css_natureza_line, .css_natureza_line span{ }
+.css_natureza_line span  span{line-height:1.5;}
+.css_natureza_obj, .css_natureza_obj span{ }
+.css_natureza_obj span  span{line-height:1.5;}
+.css_data_label, .css_data_label span{ }
+.css_data_label span  span{line-height:1.5;}
+.css_data_line, .css_data_line span{ }
+.css_data_line span  span{line-height:1.5;}
+.css_data_obj, .css_data_obj span{ }
+.css_data_obj span  span{line-height:1.5;}
+.css_cod_vend_label, .css_cod_vend_label span{ }
+.css_cod_vend_label span  span{line-height:1.5;}
+.css_cod_vend_line, .css_cod_vend_line span{background-color:#d1c9d1;}
+.css_cod_vend_line span  span{line-height:1.5;}
+.css_cod_vend_obj, .css_cod_vend_obj span{ }
+.css_cod_vend_obj span  span{line-height:1.5;}
+.css_tabela_label, .css_tabela_label span{ }
+.css_tabela_label span  span{line-height:1.5;}
+.css_tabela_line, .css_tabela_line span{ }
+.css_tabela_line span  span{line-height:1.5;}
+.css_tabela_obj, .css_tabela_obj span{ }
+.css_tabela_obj span  span{line-height:1.5;}
+.css_previsao_label, .css_previsao_label span{text-align:;}
+.css_previsao_label span  span{line-height:1.5;}
+.css_previsao_line, .css_previsao_line span{text-align:left;}
+.css_previsao_line span  span{line-height:1.5;}
+.css_previsao_obj, .css_previsao_obj span{text-align:left;}
+.css_previsao_obj span  span{line-height:1.5;}
+.css_total_label, .css_total_label span{ }
+.css_total_label span  span{line-height:1.5;}
+.css_total_line, .css_total_line span{text-align:left;}
+.css_total_line span  span{line-height:1.5;}
+.css_total_obj, .css_total_obj span{text-align:left;}
+.css_total_obj span  span{line-height:1.5;}
+.css_desconto_label, .css_desconto_label span{ }
+.css_desconto_label span  span{line-height:1.5;}
+.css_desconto_line, .css_desconto_line span{text-align:left;}
+.css_desconto_line span  span{line-height:1.5;}
+.css_desconto_obj, .css_desconto_obj span{text-align:left;}
+.css_desconto_obj span  span{line-height:1.5;}
+.css_condpag_label, .css_condpag_label span{ }
+.css_condpag_label span  span{line-height:1.5;}
+.css_condpag_line, .css_condpag_line span{ }
+.css_condpag_line span  span{line-height:1.5;}
+.css_condpag_obj, .css_condpag_obj span{ }
+.css_condpag_obj span  span{line-height:1.5;}
+.css_obs_label, .css_obs_label span{ }
+.css_obs_label span  span{line-height:1.5;}
+.css_obs_line, .css_obs_line span{ }
+.css_obs_line span  span{line-height:1.5;}
+.css_obs_obj, .css_obs_obj span{ }
+.css_obs_obj span  span{line-height:1.5;}
+.css_header_label, .css_header_label span{ }
+.css_header_label span  span{line-height:1.5;}
+.css_header_line, .css_header_line span{ }
+.css_header_line span  span{line-height:1.5;}
+.css_header_obj, .css_header_obj span{ }
+.css_header_obj span  span{line-height:1.5;}
+.css_transportadora_label, .css_transportadora_label span{ }
+.css_transportadora_label span  span{line-height:1.5;}
+.css_transportadora_line, .css_transportadora_line span{ }
+.css_transportadora_line span  span{line-height:1.5;}
+.css_transportadora_obj, .css_transportadora_obj span{ }
+.css_transportadora_obj span  span{line-height:1.5;}
+.css_local_entrega_label, .css_local_entrega_label span{ }
+.css_local_entrega_label span  span{line-height:1.5;}
+.css_local_entrega_line, .css_local_entrega_line span{ }
+.css_local_entrega_line span  span{line-height:1.5;}
+.css_local_entrega_obj, .css_local_entrega_obj span{ }
+.css_local_entrega_obj span  span{line-height:1.5;}
+.css_itensdaproposta_label, .css_itensdaproposta_label span{ }
+.css_itensdaproposta_label span  span{line-height:1.5;}
+.css_itensdaproposta_line, .css_itensdaproposta_line span{ }
+.css_itensdaproposta_line span  span{line-height:1.5;}
+.css_itensdaproposta_obj, .css_itensdaproposta_obj span{ }
+.css_itensdaproposta_obj span  span{line-height:1.5;}

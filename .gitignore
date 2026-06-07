@@ -1,0 +1,15 @@
+# Segredos / configuração local
+.env
+
+# Dump de banco de dados (dados reais de produção)
+db/dump/*
+!db/dump/.gitkeep
+
+# Cache e arquivos temporários gerados pelo ScriptCase
+www/vm2025/_lib/tmp/*
+!www/vm2025/_lib/tmp/.gitkeep
+www/vm2025/_lib/file/cache/*
+!www/vm2025/_lib/file/cache/.gitkeep
+
+# Backups locais criados durante depuração
+*.bak

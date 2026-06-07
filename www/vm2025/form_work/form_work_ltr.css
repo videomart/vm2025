@@ -1,0 +1,18 @@
+.css_descricao__label, .css_descricao__label span{ }
+.css_descricao__label span  span{line-height:1.5;}
+.css_descricao__line, .css_descricao__line >span{ }
+.css_descricao__line span  span{line-height:1.5;}
+.css_descricao__obj, .css_descricao__obj span{ }
+.css_descricao__obj span  span{line-height:1.5;}
+.css_htec__label, .css_htec__label span{ }
+.css_htec__label span  span{line-height:1.5;}
+.css_htec__line, .css_htec__line >span{ }
+.css_htec__line span  span{line-height:1.5;}
+.css_htec__obj, .css_htec__obj span{text-align:right;}
+.css_htec__obj span  span{line-height:1.5;}
+.css_valor__label, .css_valor__label span{ }
+.css_valor__label span  span{line-height:1.5;}
+.css_valor__line, .css_valor__line >span{ }
+.css_valor__line span  span{line-height:1.5;}
+.css_valor__obj, .css_valor__obj span{text-align:right;}
+.css_valor__obj span  span{line-height:1.5;}

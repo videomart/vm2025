@@ -1,0 +1,12 @@
+.css_tipo_label, .css_tipo_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_tipo_grid_line, .css_tipo_grid_line:hover {vertical-align: top;text-align: right;}
+.css_empresa_label, .css_empresa_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_empresa_grid_line, .css_empresa_grid_line:hover {vertical-align: top;text-align: right;}
+.css_contato_label, .css_contato_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_contato_grid_line, .css_contato_grid_line:hover {vertical-align: top;text-align: right;}
+.css_email_label, .css_email_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_email_grid_line, .css_email_grid_line:hover {vertical-align: top;text-align: right;}
+.css_data_label, .css_data_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_data_grid_line, .css_data_grid_line:hover {vertical-align: top;text-align: center;}
+.css_enviar_label, .css_enviar_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_enviar_grid_line, .css_enviar_grid_line:hover {vertical-align: top;text-align: right;}

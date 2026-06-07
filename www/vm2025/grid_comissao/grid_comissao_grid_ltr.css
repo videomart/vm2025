@@ -1,0 +1,30 @@
+.css_data_label, .css_data_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_data_grid_line, .css_data_grid_line:hover {vertical-align: top;text-align: center;}
+.css_id_cliente_label, .css_id_cliente_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_id_cliente_grid_line, .css_id_cliente_grid_line:hover {vertical-align: top;text-align: left;}
+.css_cod_vend_label, .css_cod_vend_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cod_vend_grid_line, .css_cod_vend_grid_line:hover {background-color:#007979;vertical-align: top;text-align: left;}
+.css_ordem_label, .css_ordem_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_ordem_grid_line, .css_ordem_grid_line:hover {vertical-align: top;text-align: left;}
+.css_modelo_label, .css_modelo_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_modelo_grid_line, .css_modelo_grid_line:hover {vertical-align: top;text-align: left;}
+.css_qtd_label, .css_qtd_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_qtd_grid_line, .css_qtd_grid_line:hover {vertical-align: top;text-align: right;}
+.css_fob_tot_label, .css_fob_tot_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_fob_tot_grid_line, .css_fob_tot_grid_line:hover {vertical-align: top;text-align: right;}
+.css_custototal_label, .css_custototal_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_custototal_grid_line, .css_custototal_grid_line:hover {background-color:#003B00;text-align: right;}
+.css_custototal_sub_tot, .css_custototal_sub_tot:hover {text-align: right;}
+.css_custototal_tot_ger, .css_custototal_tot_ger:hover {text-align: right;}
+.css_valor_max_label, .css_valor_max_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_valor_max_grid_line, .css_valor_max_grid_line:hover {background-color:#003B00;vertical-align: top;text-align: left;}
+.css_valor_vendido_label, .css_valor_vendido_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_valor_vendido_grid_line, .css_valor_vendido_grid_line:hover {background-color:#003B00;vertical-align: top;text-align: left;}
+.css_subtotalvendido_label, .css_subtotalvendido_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_subtotalvendido_grid_line, .css_subtotalvendido_grid_line:hover {background-color:#0D9FFF;text-align: right;}
+.css_subtotalvendido_sub_tot, .css_subtotalvendido_sub_tot:hover {text-align: right;}
+.css_subtotalvendido_tot_ger, .css_subtotalvendido_tot_ger:hover {text-align: right;color:#FFFF33;background-color:#575757;}
+.css_margcont_label, .css_margcont_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:normal;}
+.css_margcont_grid_line, .css_margcont_grid_line:hover {background-color:#009900;vertical-align: top;text-align: left;}
+.css_margcont_sub_tot, .css_margcont_sub_tot:hover {text-align: left;}
+.css_margcont_tot_ger, .css_margcont_tot_ger:hover {text-align: left;color:#FFFF33;background-color:#575757;}

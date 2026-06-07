@@ -1,0 +1,150 @@
+.css_tipo_label, .css_tipo_label span{ }
+.css_tipo_label span  span{line-height:1.5;}
+.css_tipo_line, .css_tipo_line span{ }
+.css_tipo_line span  span{line-height:1.5;}
+.css_tipo_obj, .css_tipo_obj span{ }
+.css_tipo_obj span  span{line-height:1.5;}
+.css_categoria_label, .css_categoria_label span{ }
+.css_categoria_label span  span{line-height:1.5;}
+.css_categoria_line, .css_categoria_line span{ }
+.css_categoria_line span  span{line-height:1.5;}
+.css_categoria_obj, .css_categoria_obj span{ }
+.css_categoria_obj span  span{line-height:1.5;}
+.css_rede_label, .css_rede_label span{ }
+.css_rede_label span  span{line-height:1.5;}
+.css_rede_line, .css_rede_line span{ }
+.css_rede_line span  span{line-height:1.5;}
+.css_rede_obj, .css_rede_obj span{ }
+.css_rede_obj span  span{line-height:1.5;}
+.css_empresa_label, .css_empresa_label span{ }
+.css_empresa_label span  span{line-height:1.5;}
+.css_empresa_line, .css_empresa_line span{ }
+.css_empresa_line span  span{line-height:1.5;}
+.css_empresa_obj, .css_empresa_obj span{ }
+.css_empresa_obj span  span{line-height:1.5;}
+.css_endereco_label, .css_endereco_label span{ }
+.css_endereco_label span  span{line-height:1.5;}
+.css_endereco_line, .css_endereco_line span{ }
+.css_endereco_line span  span{line-height:1.5;}
+.css_endereco_obj, .css_endereco_obj span{ }
+.css_endereco_obj span  span{line-height:1.5;}
+.css_id_cidade_label, .css_id_cidade_label span{ }
+.css_id_cidade_label span  span{line-height:1.5;}
+.css_id_cidade_line, .css_id_cidade_line span{ }
+.css_id_cidade_line span  span{line-height:1.5;}
+.css_id_cidade_obj, .css_id_cidade_obj span{ }
+.css_id_cidade_obj span  span{line-height:1.5;}
+.css_cep_label, .css_cep_label span{ }
+.css_cep_label span  span{line-height:1.5;}
+.css_cep_line, .css_cep_line span{ }
+.css_cep_line span  span{line-height:1.5;}
+.css_cep_obj, .css_cep_obj span{ }
+.css_cep_obj span  span{line-height:1.5;}
+.css_telefone_label, .css_telefone_label span{ }
+.css_telefone_label span  span{line-height:1.5;}
+.css_telefone_line, .css_telefone_line span{ }
+.css_telefone_line span  span{line-height:1.5;}
+.css_telefone_obj, .css_telefone_obj span{ }
+.css_telefone_obj span  span{line-height:1.5;}
+.css_celular_label, .css_celular_label span{ }
+.css_celular_label span  span{line-height:1.5;}
+.css_celular_line, .css_celular_line span{ }
+.css_celular_line span  span{line-height:1.5;}
+.css_celular_obj, .css_celular_obj span{ }
+.css_celular_obj span  span{line-height:1.5;}
+.css_whatsapp_label, .css_whatsapp_label span{ }
+.css_whatsapp_label span  span{line-height:1.5;}
+.css_whatsapp_line, .css_whatsapp_line span{ }
+.css_whatsapp_line span  span{line-height:1.5;}
+.css_whatsapp_obj, .css_whatsapp_obj span{ }
+.css_whatsapp_obj span  span{line-height:1.5;}
+.css_contato_label, .css_contato_label span{ }
+.css_contato_label span  span{line-height:1.5;}
+.css_contato_line, .css_contato_line span{ }
+.css_contato_line span  span{line-height:1.5;}
+.css_contato_obj, .css_contato_obj span{ }
+.css_contato_obj span  span{line-height:1.5;}
+.css_cnpj_cpf_label, .css_cnpj_cpf_label span{ }
+.css_cnpj_cpf_label span  span{line-height:1.5;}
+.css_cnpj_cpf_line, .css_cnpj_cpf_line span{ }
+.css_cnpj_cpf_line span  span{line-height:1.5;}
+.css_cnpj_cpf_obj, .css_cnpj_cpf_obj span{ }
+.css_cnpj_cpf_obj span  span{line-height:1.5;}
+.css_inscest_label, .css_inscest_label span{ }
+.css_inscest_label span  span{line-height:1.5;}
+.css_inscest_line, .css_inscest_line span{ }
+.css_inscest_line span  span{line-height:1.5;}
+.css_inscest_obj, .css_inscest_obj span{ }
+.css_inscest_obj span  span{line-height:1.5;}
+.css_inscmun_label, .css_inscmun_label span{ }
+.css_inscmun_label span  span{line-height:1.5;}
+.css_inscmun_line, .css_inscmun_line span{ }
+.css_inscmun_line span  span{line-height:1.5;}
+.css_inscmun_obj, .css_inscmun_obj span{ }
+.css_inscmun_obj span  span{line-height:1.5;}
+.css_email_label, .css_email_label span{ }
+.css_email_label span  span{line-height:1.5;}
+.css_email_line, .css_email_line span{ }
+.css_email_line span  span{line-height:1.5;}
+.css_email_obj, .css_email_obj span{ }
+.css_email_obj span  span{line-height:1.5;}
+.css_homepage_label, .css_homepage_label span{ }
+.css_homepage_label span  span{line-height:1.5;}
+.css_homepage_line, .css_homepage_line span{ }
+.css_homepage_line span  span{line-height:1.5;}
+.css_homepage_obj, .css_homepage_obj span{ }
+.css_homepage_obj span  span{line-height:1.5;}
+.css_obs_label, .css_obs_label span{ }
+.css_obs_label span  span{line-height:1.5;}
+.css_obs_line, .css_obs_line span{ }
+.css_obs_line span  span{line-height:1.5;}
+.css_obs_obj, .css_obs_obj span{ }
+.css_obs_obj span  span{line-height:1.5;}
+.css_dat_ult_mov_label, .css_dat_ult_mov_label span{ }
+.css_dat_ult_mov_label span  span{line-height:1.5;}
+.css_dat_ult_mov_line, .css_dat_ult_mov_line span{ }
+.css_dat_ult_mov_line span  span{line-height:1.5;}
+.css_dat_ult_mov_obj, .css_dat_ult_mov_obj span{ }
+.css_dat_ult_mov_obj span  span{line-height:1.5;}
+.css_data_label, .css_data_label span{ }
+.css_data_label span  span{line-height:1.5;}
+.css_data_line, .css_data_line span{ }
+.css_data_line span  span{line-height:1.5;}
+.css_data_obj, .css_data_obj span{ }
+.css_data_obj span  span{line-height:1.5;}
+.css_cadastrante_label, .css_cadastrante_label span{ }
+.css_cadastrante_label span  span{line-height:1.5;}
+.css_cadastrante_line, .css_cadastrante_line span{ }
+.css_cadastrante_line span  span{line-height:1.5;}
+.css_cadastrante_obj, .css_cadastrante_obj span{ }
+.css_cadastrante_obj span  span{line-height:1.5;}
+.css_contatos_label, .css_contatos_label span{ }
+.css_contatos_label span  span{line-height:1.5;}
+.css_contatos_line, .css_contatos_line span{ }
+.css_contatos_line span  span{line-height:1.5;}
+.css_contatos_obj, .css_contatos_obj span{ }
+.css_contatos_obj span  span{line-height:1.5;}
+.css_cidade_label, .css_cidade_label span{ }
+.css_cidade_label span  span{line-height:1.5;}
+.css_cidade_line, .css_cidade_line span{ }
+.css_cidade_line span  span{line-height:1.5;}
+.css_cidade_obj, .css_cidade_obj span{ }
+.css_cidade_obj span  span{line-height:1.5;}
+.css_uf_label, .css_uf_label span{ }
+.css_uf_label span  span{line-height:1.5;}
+.css_uf_line, .css_uf_line span{ }
+.css_uf_line span  span{line-height:1.5;}
+.css_uf_obj, .css_uf_obj span{ }
+.css_uf_obj span  span{line-height:1.5;}
+.css_bairro_label, .css_bairro_label span{ }
+.css_bairro_label span  span{line-height:1.5;}
+.css_bairro_line, .css_bairro_line span{ }
+.css_bairro_line span  span{line-height:1.5;}
+.css_bairro_obj, .css_bairro_obj span{ }
+.css_bairro_obj span  span{line-height:1.5;}
+.css_logradouro_label, .css_logradouro_label span{ }
+.css_logradouro_label span  span{line-height:1.5;}
+.css_logradouro_line, .css_logradouro_line span{ }
+.css_logradouro_line span  span{line-height:1.5;}
+.css_logradouro_obj, .css_logradouro_obj span{ }
+.css_logradouro_obj span  span{line-height:1.5;}

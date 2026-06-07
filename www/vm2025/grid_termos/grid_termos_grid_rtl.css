@@ -1,0 +1,14 @@
+.css_codigo_label, .css_codigo_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_codigo_grid_line, .css_codigo_grid_line:hover {vertical-align: top;text-align: right;}
+.css_moeda_label, .css_moeda_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_moeda_grid_line, .css_moeda_grid_line:hover {vertical-align: top;text-align: right;}
+.css_entrega_label, .css_entrega_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_entrega_grid_line, .css_entrega_grid_line:hover {vertical-align: top;text-align: right;}
+.css_garantia_label, .css_garantia_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_garantia_grid_line, .css_garantia_grid_line:hover {vertical-align: top;text-align: right;}
+.css_condpag_label, .css_condpag_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_condpag_grid_line, .css_condpag_grid_line:hover {vertical-align: top;text-align: right;}
+.css_formpag_label, .css_formpag_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_formpag_grid_line, .css_formpag_grid_line:hover {vertical-align: top;text-align: right;}
+.css_instdep_label, .css_instdep_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_instdep_grid_line, .css_instdep_grid_line:hover {vertical-align: top;text-align: right;}

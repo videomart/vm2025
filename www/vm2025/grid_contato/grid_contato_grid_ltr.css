@@ -1,0 +1,12 @@
+.css_id_label, .css_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_grid_line, .css_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_id_empresa_label, .css_id_empresa_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_id_empresa_grid_line, .css_id_empresa_grid_line:hover {vertical-align: top;text-align: left;}
+.css_contato_label, .css_contato_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_contato_grid_line, .css_contato_grid_line:hover {vertical-align: top;text-align: left;}
+.css_telefone_label, .css_telefone_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_telefone_grid_line, .css_telefone_grid_line:hover {vertical-align: top;text-align: left;}
+.css_celular_label, .css_celular_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_celular_grid_line, .css_celular_grid_line:hover {vertical-align: top;text-align: left;}
+.css_whatsapp_label, .css_whatsapp_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_whatsapp_grid_line, .css_whatsapp_grid_line:hover {vertical-align: top;text-align: left;}

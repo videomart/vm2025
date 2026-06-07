@@ -1,0 +1,37 @@
+.scContainerPage { background-color: #E6EAF0; background-image: none; background-repeat: repeat-x; opacity: 1; filter: alpha(opacity=100); padding: 10px }
+.scContainerHeader { background-color: #009061; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #009061; border-style: solid; border-width: 1px }
+.scContainerHeaderFont { color: #FFFFFF; font-family: Arial, sans-serif; font-size: 16px; text-decoration: none }
+.scContainerHeaderPanelFont { color: #FFFFFF; font-family: Arial, sans-serif; font-size: 16px; text-decoration: none }
+.scContainerFooter { background-color: #F9FAFC; background-image: none; opacity: 1; filter: alpha(opacity=100) }
+.scContainerFooterFont { color: #999999; font-family: Arial, sans-serif; font-size: 13px; font-weight: bold; text-decoration: none }
+.scContainerWidget { opacity: 1; filter: alpha(opacity=100); border-color: #E6EAF0; border-style: solid; border-width: 2px; background-image: none }
+.scContainerMaximized { opacity: 1; filter: alpha(opacity=100); padding: 0; border-radius: css_container_moldura_border_radius; border-color: #E6EAF0; border-style: solid; border-width: 2px }
+.scContainerTitle { font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; text-decoration: none; float: left; margin: 0; list-style: none; border: none; line-height: 23px }
+.widget-head { background-color: #FFFFFF; background-image: none; overflow: hidden; width: 100%; line-height: 23px; padding: 0 }
+.widget-is-moveable:hover { cursor: move }
+.widget-placeholder { border-color: #E0E6ED; border-style: dashed; border-width: 2px; margin: 10px; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px }
+.widget-head a.remove { background-image: url(../../img/scriptcase__NM__btn__NM__scriptcase9_Rhino__NM__nm_scriptcase9_Rhino_buttons.png); background-repeat: no-repeat; background-position: -24px }
+.widget-head a.collapse { background-image: url(../../img/scriptcase__NM__btn__NM__scriptcase9_Rhino__NM__nm_scriptcase9_Rhino_buttons.png); background-repeat: no-repeat; background-position: -52px }
+.widget-content-title- { height: 100% !important }
+.widget-content-title-none { height: 100% !important }
+.scContainerDividerMoldura { background-color: #E6EAF0; background-image: none; opacity: 1; filter: alpha(opacity=100); border-collapse: collapse }
+.scContainerDividerTitle { background-image: none; opacity: 1; filter: alpha(opacity=100); color: #333333; font-family: Helvetica,Arial,sans-serif; font-size: 16px; font-weight: bold; text-decoration: none }
+.scContainerDividerSubTitle { background-image: none; opacity: 1; filter: alpha(opacity=100); color: #333333; font-family: Helvetica,Arial,sans-serif; font-size: 13px; font-weight: bold; text-decoration: none }
+.scContainerDividerHR { border-color: #333333 }
+hr.scContainerDividerHR { margin-top: 0 !important }
+.scContainerIndexMoldura { background-color: #EFF2F7; background-image: none; opacity: 1; filter: alpha(opacity=100); border-collapse: collapse; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px }
+.scContainerIndexTitle { background-image: none; opacity: 1; filter: alpha(opacity=100); color: #333333; font-family: Helvetica,Arial,sans-serif; font-size: 16px; font-weight: bold; text-decoration: none }
+.scContainerIndexPosText { background-image: none; opacity: 1; filter: alpha(opacity=100); color: #000; font-family: Helvetica,Arial,sans-serif; text-decoration: none }
+.scContainerIndexPosTextSize { font-size: 48px }
+.scContainerIndexNegText { background-image: none; opacity: 1; filter: alpha(opacity=100); color: #000; font-family: Helvetica,Arial,sans-serif; text-decoration: none }
+.scContainerIndexNegTextSize { font-size: 48px }
+.scContainerIndexNeuText { background-image: none; opacity: 1; filter: alpha(opacity=100); color: #000; font-family: Helvetica,Arial,sans-serif; text-decoration: none }
+.scContainerIndexNeuTextSize { font-size: 48px }
+.scContainerIndexPosIcon { color: #3c763d }
+.scContainerIndexNegIcon { color: #a94442 }
+.scContainerIndexNeuIcon { color: #CCCCCC }
+.scContainerIndexDimension { background-image: none; opacity: 1; filter: alpha(opacity=100); color: #000; font-family: Helvetica,Arial,sans-serif; font-size: 14px; text-decoration: none }
+.scContainerIndexLegend { background-image: none; opacity: 1; filter: alpha(opacity=100); color: #333333; font-family: Helvetica,Arial,sans-serif; font-size: 12px; text-decoration: none }
+.scContainerIndexMetricPos { background-image: none; opacity: 1; filter: alpha(opacity=100); color: #000; font-family: Helvetica,Arial,sans-serif; font-size: 14px; text-decoration: none }
+.scContainerIndexMetricNeg { background-image: none; opacity: 1; filter: alpha(opacity=100); color: #000; font-family: Helvetica,Arial,sans-serif; font-size: 14px; text-decoration: none }
+.scContainerIndexMetricNeu { background-image: none; opacity: 1; filter: alpha(opacity=100); color: #000; font-family: Helvetica,Arial,sans-serif; font-size: 14px; text-decoration: none }

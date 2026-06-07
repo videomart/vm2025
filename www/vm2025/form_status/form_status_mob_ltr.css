@@ -1,0 +1,8 @@
+.css_status_label, .css_status_label span{ }
+.css_status_label span  span{line-height:1.5;}
+.css_status_line, .css_status_line >span{ }
+.css_status_line span  span{line-height:1.5;}
+.css_status_obj, .css_status_obj span{ }
+.css_status_obj span  span{line-height:1.5;}
+.css_id_obj, .css_id_obj span{text-align:left;}
+.css_id_obj span  span{line-height:1.5;}

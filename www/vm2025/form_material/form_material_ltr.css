@@ -1,0 +1,24 @@
+.css_partnumber__label, .css_partnumber__label span{ }
+.css_partnumber__label span  span{line-height:1.5;}
+.css_partnumber__line, .css_partnumber__line >span{ }
+.css_partnumber__line span  span{line-height:1.5;}
+.css_partnumber__obj, .css_partnumber__obj span{ }
+.css_partnumber__obj span  span{line-height:1.5;}
+.css_descricao__label, .css_descricao__label span{ }
+.css_descricao__label span  span{line-height:1.5;}
+.css_descricao__line, .css_descricao__line >span{ }
+.css_descricao__line span  span{line-height:1.5;}
+.css_descricao__obj, .css_descricao__obj span{ }
+.css_descricao__obj span  span{line-height:1.5;}
+.css_qty__label, .css_qty__label span{ }
+.css_qty__label span  span{line-height:1.5;}
+.css_qty__line, .css_qty__line >span{ }
+.css_qty__line span  span{line-height:1.5;}
+.css_qty__obj, .css_qty__obj span{text-align:right;}
+.css_qty__obj span  span{line-height:1.5;}
+.css_unit__label, .css_unit__label span{ }
+.css_unit__label span  span{line-height:1.5;}
+.css_unit__line, .css_unit__line >span{ }
+.css_unit__line span  span{line-height:1.5;}
+.css_unit__obj, .css_unit__obj span{text-align:right;}
+.css_unit__obj span  span{line-height:1.5;}

@@ -1,0 +1,12 @@
+.css_nome_label, .css_nome_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_nome_grid_line, .css_nome_grid_line:hover {vertical-align: top;text-align: right;}
+.css_endereco_label, .css_endereco_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_endereco_grid_line, .css_endereco_grid_line:hover {vertical-align: top;text-align: right;}
+.css_telefone_label, .css_telefone_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_telefone_grid_line, .css_telefone_grid_line:hover {vertical-align: top;text-align: right;}
+.css_usuario_label, .css_usuario_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_usuario_grid_line, .css_usuario_grid_line:hover {vertical-align: top;text-align: right;}
+.css_cpf_label, .css_cpf_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cpf_grid_line, .css_cpf_grid_line:hover {vertical-align: top;text-align: right;}
+.css_divisao_label, .css_divisao_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_divisao_grid_line, .css_divisao_grid_line:hover {vertical-align: top;text-align: right;}

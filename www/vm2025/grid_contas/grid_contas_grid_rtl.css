@@ -1,0 +1,19 @@
+.css_id_empresa_label, .css_id_empresa_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_id_empresa_grid_line, .css_id_empresa_grid_line:hover {vertical-align: top;text-align: right;}
+.css_data_label, .css_data_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_data_grid_line, .css_data_grid_line:hover {vertical-align: top;text-align: center;}
+.css_referencia_label, .css_referencia_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_referencia_grid_line, .css_referencia_grid_line:hover {vertical-align: top;text-align: right;}
+.css_moeda_label, .css_moeda_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_moeda_grid_line, .css_moeda_grid_line:hover {vertical-align: top;text-align: right;}
+.css_credito_label, .css_credito_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_credito_grid_line, .css_credito_grid_line:hover {color:#0033CC;vertical-align: top;text-align: right;}
+.css_credito_sub_tot, .css_credito_sub_tot:hover {text-align: right;}
+.css_debito_label, .css_debito_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_debito_grid_line, .css_debito_grid_line:hover {color:#FF0000;vertical-align: top;text-align: right;}
+.css_debito_sub_tot, .css_debito_sub_tot:hover {text-align: right;}
+.css_subtotal_label, .css_subtotal_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_subtotal_grid_line, .css_subtotal_grid_line:hover {vertical-align: top;text-align: center;}
+.css_subtotal_sub_tot, .css_subtotal_sub_tot:hover {text-align: center;}
+.css_id_subconta_label, .css_id_subconta_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_subconta_grid_line, .css_id_subconta_grid_line:hover {vertical-align: top;text-align: right;}

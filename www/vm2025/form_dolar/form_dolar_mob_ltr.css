@@ -1,0 +1,12 @@
+.css_data_label, .css_data_label span{ }
+.css_data_label span  span{line-height:1.5;}
+.css_data_line, .css_data_line >span{ }
+.css_data_line span  span{line-height:1.5;}
+.css_data_obj, .css_data_obj span{ }
+.css_data_obj span  span{line-height:1.5;}
+.css_dolar_label, .css_dolar_label span{ }
+.css_dolar_label span  span{line-height:1.5;}
+.css_dolar_line, .css_dolar_line >span{ }
+.css_dolar_line span  span{line-height:1.5;}
+.css_dolar_obj, .css_dolar_obj span{text-align:left;}
+.css_dolar_obj span  span{line-height:1.5;}

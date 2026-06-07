@@ -1,0 +1,18 @@
+.css_id_produto_label, .css_id_produto_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_id_produto_grid_line, .css_id_produto_grid_line:hover {vertical-align: top;text-align: right;}
+.css_data_label, .css_data_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_data_grid_line, .css_data_grid_line:hover {vertical-align: top;text-align: center;}
+.css_id_empresa_label, .css_id_empresa_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_id_empresa_grid_line, .css_id_empresa_grid_line:hover {vertical-align: top;text-align: right;}
+.css_entrada_label, .css_entrada_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_entrada_grid_line, .css_entrada_grid_line:hover {vertical-align: top;text-align: right;}
+.css_entrada_sub_tot, .css_entrada_sub_tot:hover {text-align: right;}
+.css_entrada_tot_ger, .css_entrada_tot_ger:hover {text-align: right;}
+.css_saida_label, .css_saida_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_saida_grid_line, .css_saida_grid_line:hover {vertical-align: top;text-align: right;}
+.css_saida_sub_tot, .css_saida_sub_tot:hover {text-align: right;}
+.css_saida_tot_ger, .css_saida_tot_ger:hover {text-align: right;}
+.css_unit_estoq_label, .css_unit_estoq_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_unit_estoq_grid_line, .css_unit_estoq_grid_line:hover {vertical-align: top;text-align: right;}
+.css_unit_estoq_sub_tot, .css_unit_estoq_sub_tot:hover {text-align: right;}
+.css_unit_estoq_tot_ger, .css_unit_estoq_tot_ger:hover {text-align: right;}

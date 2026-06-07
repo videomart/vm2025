@@ -1,0 +1,26 @@
+.css_id_modelo_label, .css_id_modelo_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_modelo_grid_line, .css_id_modelo_grid_line:hover {vertical-align: top;text-align: right;}
+.css_id_empresa_label, .css_id_empresa_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_id_empresa_grid_line, .css_id_empresa_grid_line:hover {vertical-align: top;text-align: right;}
+.css_moeda_label, .css_moeda_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_moeda_grid_line, .css_moeda_grid_line:hover {vertical-align: top;text-align: right;}
+.css_fob_label, .css_fob_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_fob_grid_line, .css_fob_grid_line:hover {vertical-align: top;text-align: right;}
+.css_fob_tot_ger, .css_fob_tot_ger:hover {text-align: ;text-align: right;}
+.css_peso_label, .css_peso_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_peso_grid_line, .css_peso_grid_line:hover {vertical-align: top;text-align: right;}
+.css_peso_tot_ger, .css_peso_tot_ger:hover {text-align: ;text-align: right;}
+.css_data_label, .css_data_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_data_grid_line, .css_data_grid_line:hover {vertical-align: top;text-align: center;}
+.css_fob_A_sub_tot, .css_fob_A_sub_tot:hover {text-align: right;text-align: right;}
+.css_fob_A_tot_ger, .css_fob_A_tot_ger:hover {text-align: right;}
+.css_fob_X_sub_tot, .css_fob_X_sub_tot:hover {text-align: right;text-align: right;}
+.css_fob_X_tot_ger, .css_fob_X_tot_ger:hover {text-align: right;}
+.css_fob_M_sub_tot, .css_fob_M_sub_tot:hover {text-align: right;text-align: right;}
+.css_fob_M_tot_ger, .css_fob_M_tot_ger:hover {text-align: right;}
+.css_peso_A_sub_tot, .css_peso_A_sub_tot:hover {text-align: right;text-align: right;}
+.css_peso_A_tot_ger, .css_peso_A_tot_ger:hover {text-align: right;}
+.css_peso_X_sub_tot, .css_peso_X_sub_tot:hover {text-align: right;text-align: right;}
+.css_peso_X_tot_ger, .css_peso_X_tot_ger:hover {text-align: right;}
+.css_peso_M_sub_tot, .css_peso_M_sub_tot:hover {text-align: right;text-align: right;}
+.css_peso_M_tot_ger, .css_peso_M_tot_ger:hover {text-align: right;}

@@ -1,0 +1,54 @@
+.css_id_produto_label, .css_id_produto_label span{ }
+.css_id_produto_label span  span{line-height:1.5;}
+.css_id_produto_line, .css_id_produto_line >span{ }
+.css_id_produto_line span  span{line-height:1.5;}
+.css_id_produto_obj, .css_id_produto_obj span{ }
+.css_id_produto_obj span  span{line-height:1.5;}
+.css_data_label, .css_data_label span{ }
+.css_data_label span  span{line-height:1.5;}
+.css_data_line, .css_data_line >span{ }
+.css_data_line span  span{line-height:1.5;}
+.css_data_obj, .css_data_obj span{ }
+.css_data_obj span  span{line-height:1.5;}
+.css_operacao_label, .css_operacao_label span{ }
+.css_operacao_label span  span{line-height:1.5;}
+.css_operacao_line, .css_operacao_line >span{ }
+.css_operacao_line span  span{line-height:1.5;}
+.css_operacao_obj, .css_operacao_obj span{ }
+.css_operacao_obj span  span{line-height:1.5;}
+.css_entrada_label, .css_entrada_label span{ }
+.css_entrada_label span  span{line-height:1.5;}
+.css_entrada_line, .css_entrada_line >span{ }
+.css_entrada_line span  span{line-height:1.5;}
+.css_entrada_obj, .css_entrada_obj span{text-align:right;}
+.css_entrada_obj span  span{line-height:1.5;}
+.css_saida_label, .css_saida_label span{ }
+.css_saida_label span  span{line-height:1.5;}
+.css_saida_line, .css_saida_line >span{ }
+.css_saida_line span  span{line-height:1.5;}
+.css_saida_obj, .css_saida_obj span{text-align:right;}
+.css_saida_obj span  span{line-height:1.5;}
+.css_id_empresa_label, .css_id_empresa_label span{ }
+.css_id_empresa_label span  span{line-height:1.5;}
+.css_id_empresa_line, .css_id_empresa_line >span{ }
+.css_id_empresa_line span  span{line-height:1.5;}
+.css_id_empresa_obj, .css_id_empresa_obj span{ }
+.css_id_empresa_obj span  span{line-height:1.5;}
+.css_obs_label, .css_obs_label span{ }
+.css_obs_label span  span{line-height:1.5;}
+.css_obs_line, .css_obs_line >span{ }
+.css_obs_line span  span{line-height:1.5;}
+.css_obs_obj, .css_obs_obj span{ }
+.css_obs_obj span  span{line-height:1.5;}
+.css_estoque_label, .css_estoque_label span{ }
+.css_estoque_label span  span{line-height:1.5;}
+.css_estoque_line, .css_estoque_line >span{ }
+.css_estoque_line span  span{line-height:1.5;}
+.css_estoque_obj, .css_estoque_obj span{text-align:right;}
+.css_estoque_obj span  span{line-height:1.5;}
+.css_descricao_label, .css_descricao_label span{ }
+.css_descricao_label span  span{line-height:1.5;}
+.css_descricao_line, .css_descricao_line >span{ }
+.css_descricao_line span  span{line-height:1.5;}
+.css_descricao_obj, .css_descricao_obj span{ }
+.css_descricao_obj span  span{line-height:1.5;}

@@ -1,0 +1,10 @@
+.css_id_label, .css_id_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_id_grid_line, .css_id_grid_line:hover {vertical-align: top;text-align: left;}
+.css_data_label, .css_data_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_data_grid_line, .css_data_grid_line:hover {vertical-align: top;text-align: center;}
+.css_cnpj_cpf_label, .css_cnpj_cpf_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cnpj_cpf_grid_line, .css_cnpj_cpf_grid_line:hover {vertical-align: top;text-align: left;}
+.css_empresa_label, .css_empresa_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_empresa_grid_line, .css_empresa_grid_line:hover {vertical-align: top;text-align: left;}
+.css_contato_label, .css_contato_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_contato_grid_line, .css_contato_grid_line:hover {vertical-align: top;text-align: left;}

@@ -1,0 +1,39 @@
+Angra dos Reis@nm@0@nm@
+Araruama@nm@291081@nm@
+Armação dos Búzios@nm@607826@nm@
+Barra do Piraí@nm@736693@nm@
+Barra Mansa@nm@861760@nm@
+Belford Roxo@nm@1038085@nm@
+Cabo Frio@nm@1410184@nm@
+Cachoeiras de Macacu@nm@1705211@nm@
+Campos dos Goytacazes@nm@1780326@nm@
+Duque de Caxias@nm@2144137@nm@
+Guapimirim@nm@2795124@nm@
+Iguaba Grande@nm@2913182@nm@
+Itaboraí@nm@3036494@nm@
+Itaguaí@nm@3371821@nm@
+Japeri@nm@3515438@nm@
+Macaé@nm@3647116@nm@
+Magé@nm@4030884@nm@
+Maricá@nm@4389287@nm@
+Mesquita@nm@4819397@nm@
+Nilópolis@nm@4932066@nm@
+Niterói@nm@5054502@nm@
+Nova Friburgo@nm@5412545@nm@
+Nova Iguaçu@nm@5607320@nm@
+Petrópolis@nm@6437852@nm@
+Quatis@nm@6782584@nm@
+Queimados@nm@6809001@nm@
+Quissamã@nm@6976746@nm@
+Resende@nm@7017405@nm@
+Rio das Ostras@nm@7175710@nm@
+Rio de Janeiro@nm@7383276@nm@
+São Gonçalo@nm@10887453@nm@
+São João de Meriti@nm@11633291@nm@
+São Pedro da Aldeia@nm@11901883@nm@
+Saquarema@nm@12094468@nm@
+Seropédica@nm@12328627@nm@
+Teresópolis@nm@12426797@nm@
+Três Rios@nm@12638882@nm@
+Valença@nm@12740015@nm@
+Volta Redonda@nm@12824611@nm@

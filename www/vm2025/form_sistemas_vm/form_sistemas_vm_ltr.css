@@ -1,0 +1,84 @@
+.css_id_label, .css_id_label span{ }
+.css_id_label span  span{line-height:1.5;}
+.css_id_line, .css_id_line >span{text-align:left;}
+.css_id_line span  span{line-height:1.5;}
+.css_id_obj, .css_id_obj span{text-align:left;}
+.css_id_obj span  span{line-height:1.5;}
+.css_id_empresa_label, .css_id_empresa_label span{ }
+.css_id_empresa_label span  span{line-height:1.5;}
+.css_id_empresa_line, .css_id_empresa_line >span{text-align:left;}
+.css_id_empresa_line span  span{line-height:1.5;}
+.css_id_empresa_obj, .css_id_empresa_obj span{text-align:left;}
+.css_id_empresa_obj span  span{line-height:1.5;}
+.css_contato_label, .css_contato_label span{ }
+.css_contato_label span  span{line-height:1.5;}
+.css_contato_line, .css_contato_line >span{ }
+.css_contato_line span  span{line-height:1.5;}
+.css_contato_obj, .css_contato_obj span{ }
+.css_contato_obj span  span{line-height:1.5;}
+.css_telefone_label, .css_telefone_label span{ }
+.css_telefone_label span  span{line-height:1.5;}
+.css_telefone_line, .css_telefone_line >span{ }
+.css_telefone_line span  span{line-height:1.5;}
+.css_telefone_obj, .css_telefone_obj span{ }
+.css_telefone_obj span  span{line-height:1.5;}
+.css_email_label, .css_email_label span{ }
+.css_email_label span  span{line-height:1.5;}
+.css_email_line, .css_email_line >span{ }
+.css_email_line span  span{line-height:1.5;}
+.css_email_obj, .css_email_obj span{ }
+.css_email_obj span  span{line-height:1.5;}
+.css_cnpj_label, .css_cnpj_label span{ }
+.css_cnpj_label span  span{line-height:1.5;}
+.css_cnpj_line, .css_cnpj_line >span{ }
+.css_cnpj_line span  span{line-height:1.5;}
+.css_cnpj_obj, .css_cnpj_obj span{ }
+.css_cnpj_obj span  span{line-height:1.5;}
+.css_id_proposta_label, .css_id_proposta_label span{ }
+.css_id_proposta_label span  span{line-height:1.5;}
+.css_id_proposta_line, .css_id_proposta_line >span{text-align:left;}
+.css_id_proposta_line span  span{line-height:1.5;}
+.css_id_proposta_obj, .css_id_proposta_obj span{text-align:left;}
+.css_id_proposta_obj span  span{line-height:1.5;}
+.css_data_venda_label, .css_data_venda_label span{ }
+.css_data_venda_label span  span{line-height:1.5;}
+.css_data_venda_line, .css_data_venda_line >span{ }
+.css_data_venda_line span  span{line-height:1.5;}
+.css_data_venda_obj, .css_data_venda_obj span{ }
+.css_data_venda_obj span  span{line-height:1.5;}
+.css_id_itemproposta_label, .css_id_itemproposta_label span{ }
+.css_id_itemproposta_label span  span{line-height:1.5;}
+.css_id_itemproposta_line, .css_id_itemproposta_line >span{text-align:left;}
+.css_id_itemproposta_line span  span{line-height:1.5;}
+.css_id_itemproposta_obj, .css_id_itemproposta_obj span{text-align:left;}
+.css_id_itemproposta_obj span  span{line-height:1.5;}
+.css_modelo_label, .css_modelo_label span{ }
+.css_modelo_label span  span{line-height:1.5;}
+.css_modelo_line, .css_modelo_line >span{ }
+.css_modelo_line span  span{line-height:1.5;}
+.css_modelo_obj, .css_modelo_obj span{ }
+.css_modelo_obj span  span{line-height:1.5;}
+.css_serial_label, .css_serial_label span{ }
+.css_serial_label span  span{line-height:1.5;}
+.css_serial_line, .css_serial_line >span{ }
+.css_serial_line span  span{line-height:1.5;}
+.css_serial_obj, .css_serial_obj span{ }
+.css_serial_obj span  span{line-height:1.5;}
+.css_cod_ativacao_label, .css_cod_ativacao_label span{ }
+.css_cod_ativacao_label span  span{line-height:1.5;}
+.css_cod_ativacao_line, .css_cod_ativacao_line >span{ }
+.css_cod_ativacao_line span  span{line-height:1.5;}
+.css_cod_ativacao_obj, .css_cod_ativacao_obj span{ }
+.css_cod_ativacao_obj span  span{line-height:1.5;}
+.css_dados_integracao_label, .css_dados_integracao_label span{ }
+.css_dados_integracao_label span  span{line-height:1.5;}
+.css_dados_integracao_line, .css_dados_integracao_line >span{ }
+.css_dados_integracao_line span  span{line-height:1.5;}
+.css_dados_integracao_obj, .css_dados_integracao_obj span{ }
+.css_dados_integracao_obj span  span{line-height:1.5;}
+.css_dados_suporte_label, .css_dados_suporte_label span{ }
+.css_dados_suporte_label span  span{line-height:1.5;}
+.css_dados_suporte_line, .css_dados_suporte_line >span{ }
+.css_dados_suporte_line span  span{line-height:1.5;}
+.css_dados_suporte_obj, .css_dados_suporte_obj span{ }
+.css_dados_suporte_obj span  span{line-height:1.5;}

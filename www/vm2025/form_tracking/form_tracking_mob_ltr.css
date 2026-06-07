@@ -1,0 +1,114 @@
+.css_job_label, .css_job_label span{ }
+.css_job_label span  span{line-height:1.5;}
+.css_job_line, .css_job_line >span{ }
+.css_job_line span  span{line-height:1.5;}
+.css_job_obj, .css_job_obj span{text-align:left;}
+.css_job_obj span  span{line-height:1.5;}
+.css_ordem_label, .css_ordem_label span{ }
+.css_ordem_label span  span{line-height:1.5;}
+.css_ordem_line, .css_ordem_line >span{ }
+.css_ordem_line span  span{line-height:1.5;}
+.css_ordem_obj, .css_ordem_obj span{ }
+.css_ordem_obj span  span{line-height:1.5;}
+.css_modelo_label, .css_modelo_label span{ }
+.css_modelo_label span  span{line-height:1.5;}
+.css_modelo_line, .css_modelo_line >span{ }
+.css_modelo_line span  span{line-height:1.5;}
+.css_modelo_obj, .css_modelo_obj span{ }
+.css_modelo_obj span  span{line-height:1.5;}
+.css_fob_label, .css_fob_label span{ }
+.css_fob_label span  span{line-height:1.5;}
+.css_fob_line, .css_fob_line >span{ }
+.css_fob_line span  span{line-height:1.5;}
+.css_fob_obj, .css_fob_obj span{text-align:left;}
+.css_fob_obj span  span{line-height:1.5;}
+.css_descricao_label, .css_descricao_label span{ }
+.css_descricao_label span  span{line-height:1.5;}
+.css_descricao_line, .css_descricao_line >span{ }
+.css_descricao_line span  span{line-height:1.5;}
+.css_descricao_obj, .css_descricao_obj span{ }
+.css_descricao_obj span  span{line-height:1.5;}
+.css_qtd_label, .css_qtd_label span{ }
+.css_qtd_label span  span{line-height:1.5;}
+.css_qtd_line, .css_qtd_line >span{ }
+.css_qtd_line span  span{line-height:1.5;}
+.css_qtd_obj, .css_qtd_obj span{ }
+.css_qtd_obj span  span{line-height:1.5;}
+.css_vendedor_label, .css_vendedor_label span{ }
+.css_vendedor_label span  span{line-height:1.5;}
+.css_vendedor_line, .css_vendedor_line >span{ }
+.css_vendedor_line span  span{line-height:1.5;}
+.css_vendedor_obj, .css_vendedor_obj span{ }
+.css_vendedor_obj span  span{line-height:1.5;}
+.css_data_venda_label, .css_data_venda_label span{ }
+.css_data_venda_label span  span{line-height:1.5;}
+.css_data_venda_line, .css_data_venda_line >span{ }
+.css_data_venda_line span  span{line-height:1.5;}
+.css_data_venda_obj, .css_data_venda_obj span{ }
+.css_data_venda_obj span  span{line-height:1.5;}
+.css_data_entrega_label, .css_data_entrega_label span{ }
+.css_data_entrega_label span  span{line-height:1.5;}
+.css_data_entrega_line, .css_data_entrega_line >span{ }
+.css_data_entrega_line span  span{line-height:1.5;}
+.css_data_entrega_obj, .css_data_entrega_obj span{ }
+.css_data_entrega_obj span  span{line-height:1.5;}
+.css_data_compra_label, .css_data_compra_label span{ }
+.css_data_compra_label span  span{line-height:1.5;}
+.css_data_compra_line, .css_data_compra_line >span{ }
+.css_data_compra_line span  span{line-height:1.5;}
+.css_data_compra_obj, .css_data_compra_obj span{ }
+.css_data_compra_obj span  span{line-height:1.5;}
+.css_comprador_label, .css_comprador_label span{ }
+.css_comprador_label span  span{line-height:1.5;}
+.css_comprador_line, .css_comprador_line >span{ }
+.css_comprador_line span  span{line-height:1.5;}
+.css_comprador_obj, .css_comprador_obj span{ }
+.css_comprador_obj span  span{line-height:1.5;}
+.css_id_dealer_label, .css_id_dealer_label span{ }
+.css_id_dealer_label span  span{line-height:1.5;}
+.css_id_dealer_line, .css_id_dealer_line >span{ }
+.css_id_dealer_line span  span{line-height:1.5;}
+.css_id_dealer_obj, .css_id_dealer_obj span{ }
+.css_id_dealer_obj span  span{line-height:1.5;}
+.css_dealer_label, .css_dealer_label span{ }
+.css_dealer_label span  span{line-height:1.5;}
+.css_dealer_line, .css_dealer_line >span{ }
+.css_dealer_line span  span{line-height:1.5;}
+.css_dealer_obj, .css_dealer_obj span{ }
+.css_dealer_obj span  span{line-height:1.5;}
+.css_purch_order_label, .css_purch_order_label span{ }
+.css_purch_order_label span  span{line-height:1.5;}
+.css_purch_order_line, .css_purch_order_line >span{ }
+.css_purch_order_line span  span{line-height:1.5;}
+.css_purch_order_obj, .css_purch_order_obj span{ }
+.css_purch_order_obj span  span{line-height:1.5;}
+.css_data_prevista_label, .css_data_prevista_label span{ }
+.css_data_prevista_label span  span{line-height:1.5;}
+.css_data_prevista_line, .css_data_prevista_line >span{ }
+.css_data_prevista_line span  span{line-height:1.5;}
+.css_data_prevista_obj, .css_data_prevista_obj span{ }
+.css_data_prevista_obj span  span{line-height:1.5;}
+.css_data_recebimento_label, .css_data_recebimento_label span{ }
+.css_data_recebimento_label span  span{line-height:1.5;}
+.css_data_recebimento_line, .css_data_recebimento_line >span{ }
+.css_data_recebimento_line span  span{line-height:1.5;}
+.css_data_recebimento_obj, .css_data_recebimento_obj span{ }
+.css_data_recebimento_obj span  span{line-height:1.5;}
+.css_via_label, .css_via_label span{ }
+.css_via_label span  span{line-height:1.5;}
+.css_via_line, .css_via_line >span{ }
+.css_via_line span  span{line-height:1.5;}
+.css_via_obj, .css_via_obj span{ }
+.css_via_obj span  span{line-height:1.5;}
+.css_status_label, .css_status_label span{ }
+.css_status_label span  span{line-height:1.5;}
+.css_status_line, .css_status_line >span{ }
+.css_status_line span  span{line-height:1.5;}
+.css_status_obj, .css_status_obj span{ }
+.css_status_obj span  span{line-height:1.5;}
+.css_obs_label, .css_obs_label span{ }
+.css_obs_label span  span{line-height:1.5;}
+.css_obs_line, .css_obs_line >span{ }
+.css_obs_line span  span{line-height:1.5;}
+.css_obs_obj, .css_obs_obj span{ }
+.css_obs_obj span  span{line-height:1.5;}

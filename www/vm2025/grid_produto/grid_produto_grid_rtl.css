@@ -1,0 +1,14 @@
+.css_modelo_label, .css_modelo_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_modelo_grid_line, .css_modelo_grid_line:hover {vertical-align: top;text-align: right;}
+.css_venda_label, .css_venda_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_venda_grid_line, .css_venda_grid_line:hover {vertical-align: top;text-align: right;}
+.css_sc_field_0_label, .css_sc_field_0_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_sc_field_0_grid_line, .css_sc_field_0_grid_line:hover {text-align: right;}
+.css_id_classe_label, .css_id_classe_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_id_classe_grid_line, .css_id_classe_grid_line:hover {vertical-align: top;text-align: right;}
+.css_id_marca_label, .css_id_marca_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_id_marca_grid_line, .css_id_marca_grid_line:hover {vertical-align: top;text-align: right;}
+.css_descricao_label, .css_descricao_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_descricao_grid_line, .css_descricao_grid_line:hover {vertical-align: top;text-align: right;}
+.css_data_label, .css_data_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_data_grid_line, .css_data_grid_line:hover {vertical-align: top;text-align: center;}

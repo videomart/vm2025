@@ -1,0 +1,85 @@
+Alfenas@nm@0@nm@
+Andradas@nm@180607@nm@
+Araçuaí@nm@267170@nm@
+Araguari@nm@337272@nm@
+Araxá@nm@505465@nm@
+Arcos@nm@730022@nm@
+Barbacena@nm@837360@nm@
+Barroso@nm@1001683@nm@
+Belo Horizonte@nm@1044790@nm@
+Betim@nm@3045458@nm@
+Bicas@nm@3621835@nm@
+Bom Despacho@nm@3652045@nm@
+Brumadinho@nm@3774982@nm@
+Capelinha@nm@3927296@nm@
+Carandaí@nm@3982112@nm@
+Carangola@nm@4025421@nm@
+Caratinga@nm@4083270@nm@
+Carmo do Paranaíba@nm@4171779@nm@
+Cataguases@nm@4231717@nm@
+Congonhas@nm@4320078@nm@
+Conselheiro Lafaiete@nm@4436582@nm@
+Contagem@nm@4662236@nm@
+Coromandel@nm@5181544@nm@
+Coronel Fabriciano@nm@5229561@nm@
+Curvelo@nm@5361491@nm@
+Divinópolis@nm@5490427@nm@
+Esmeraldas@nm@5808244@nm@
+Extrema@nm@6029628@nm@
+Formiga@nm@6152265@nm@
+Frutal@nm@6312164@nm@
+Governador Valadares@nm@6407715@nm@
+Guaxupé@nm@6743428@nm@
+Ibirité@nm@6912354@nm@
+Igarapé@nm@7143820@nm@
+Ipatinga@nm@7281940@nm@
+Itabira@nm@7470382@nm@
+Itabirito@nm@7601443@nm@
+Itajubá@nm@7705099@nm@
+Itaúna@nm@7845201@nm@
+Ituiutaba@nm@7995302@nm@
+Janaúba@nm@8159031@nm@
+João Monlevade@nm@8271522@nm@
+Juiz de Fora@nm@8403015@nm@
+Lagoa da Prata@nm@8875328@nm@
+Lagoa Santa@nm@8962625@nm@
+Lavras@nm@9139253@nm@
+Leopoldina@nm@9382823@nm@
+Manhuaçu@nm@9454994@nm@
+Mariana@nm@9528632@nm@
+Montes Claros@nm@9607357@nm@
+Muriaé@nm@10122207@nm@
+Nova Lima@nm@10249425@nm@
+Nova Serrana@nm@10468912@nm@
+Ouro Branco@nm@10693375@nm@
+Ouro Preto@nm@10760573@nm@
+Pará de Minas@nm@10880168@nm@
+Paracatu@nm@11052530@nm@
+Passos@nm@11187556@nm@
+Patos de Minas@nm@11349671@nm@
+Patrocínio@nm@11621313@nm@
+Pedro Leopoldo@nm@11773222@nm@
+Pirapora@nm@11905960@nm@
+Poços de Caldas@nm@11978793@nm@
+Ponte Nova@nm@12238022@nm@
+Pouso Alegre@nm@12310201@nm@
+Ribeirão das Neves@nm@12681186@nm@
+Sabará@nm@13109594@nm@
+Santa Luzia@nm@13262733@nm@
+Santa Rita do Sapucaí@nm@13520347@nm@
+Santos Dumont@nm@13628549@nm@
+São João Del Rei@nm@13686394@nm@
+São João Nepomuceno@nm@13880676@nm@
+São Sebastião do Paraíso@nm@13935859@nm@
+Sete Lagoas@nm@14172001@nm@
+Teófilo Otoni@nm@14523563@nm@
+Timóteo@nm@14716776@nm@
+Três Corações@nm@14818582@nm@
+Três Pontas@nm@14990357@nm@
+Ubá@nm@15096824@nm@
+Uberaba@nm@15244230@nm@
+Uberlândia@nm@15827955@nm@
+Unaí@nm@16464238@nm@
+Varginha@nm@16595236@nm@
+Vespasiano@nm@16874830@nm@
+Viçosa@nm@17014881@nm@

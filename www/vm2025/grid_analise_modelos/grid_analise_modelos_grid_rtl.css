@@ -1,0 +1,14 @@
+.css_itemproposta_modelo_label, .css_itemproposta_modelo_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_itemproposta_modelo_grid_line, .css_itemproposta_modelo_grid_line:hover {vertical-align: top;text-align: right;}
+.css_proposta_data_label, .css_proposta_data_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_proposta_data_grid_line, .css_proposta_data_grid_line:hover {vertical-align: top;text-align: center;}
+.css_proposta_natureza_label, .css_proposta_natureza_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_proposta_natureza_grid_line, .css_proposta_natureza_grid_line:hover {vertical-align: top;text-align: right;}
+.css_proposta_cliente_label, .css_proposta_cliente_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_proposta_cliente_grid_line, .css_proposta_cliente_grid_line:hover {vertical-align: top;text-align: right;}
+.css_proposta_atencao_label, .css_proposta_atencao_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_proposta_atencao_grid_line, .css_proposta_atencao_grid_line:hover {vertical-align: top;text-align: right;}
+.css_proposta_cod_vend_label, .css_proposta_cod_vend_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_proposta_cod_vend_grid_line, .css_proposta_cod_vend_grid_line:hover {vertical-align: top;text-align: right;}
+.css_proposta_total_label, .css_proposta_total_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_proposta_total_grid_line, .css_proposta_total_grid_line:hover {vertical-align: top;text-align: right;}

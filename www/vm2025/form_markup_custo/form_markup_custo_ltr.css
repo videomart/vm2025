@@ -1,0 +1,12 @@
+.css_titulo__label, .css_titulo__label span{ }
+.css_titulo__label span  span{line-height:1.5;}
+.css_titulo__line, .css_titulo__line span{ }
+.css_titulo__line span  span{line-height:1.5;}
+.css_titulo__obj, .css_titulo__obj span{ }
+.css_titulo__obj span  span{line-height:1.5;}
+.css_aliquota__label, .css_aliquota__label span{ }
+.css_aliquota__label span  span{line-height:1.5;}
+.css_aliquota__line, .css_aliquota__line span{text-align:left;}
+.css_aliquota__line span  span{line-height:1.5;}
+.css_aliquota__obj, .css_aliquota__obj span{text-align:left;}
+.css_aliquota__obj span  span{line-height:1.5;}

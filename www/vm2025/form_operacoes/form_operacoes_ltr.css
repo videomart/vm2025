@@ -1,0 +1,12 @@
+.css_operacao_label, .css_operacao_label span{ }
+.css_operacao_label span  span{line-height:1.5;}
+.css_operacao_line, .css_operacao_line >span{ }
+.css_operacao_line span  span{line-height:1.5;}
+.css_operacao_obj, .css_operacao_obj span{ }
+.css_operacao_obj span  span{line-height:1.5;}
+.css_cfop_label, .css_cfop_label span{ }
+.css_cfop_label span  span{line-height:1.5;}
+.css_cfop_line, .css_cfop_line >span{ }
+.css_cfop_line span  span{line-height:1.5;}
+.css_cfop_obj, .css_cfop_obj span{text-align:right;}
+.css_cfop_obj span  span{line-height:1.5;}

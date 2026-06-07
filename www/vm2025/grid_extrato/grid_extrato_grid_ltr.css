@@ -1,0 +1,10 @@
+.css_data_label, .css_data_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_data_grid_line, .css_data_grid_line:hover {vertical-align: top;text-align: center;}
+.css_referencia_label, .css_referencia_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_referencia_grid_line, .css_referencia_grid_line:hover {vertical-align: top;text-align: left;}
+.css_credito_label, .css_credito_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_credito_grid_line, .css_credito_grid_line:hover {vertical-align: top;text-align: right;}
+.css_debito_label, .css_debito_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_debito_grid_line, .css_debito_grid_line:hover {vertical-align: top;text-align: right;}
+.css_moeda_label, .css_moeda_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_moeda_grid_line, .css_moeda_grid_line:hover {vertical-align: top;text-align: left;}

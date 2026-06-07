@@ -1,0 +1,18 @@
+.css_job_label, .css_job_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_job_grid_line, .css_job_grid_line:hover {vertical-align: top;text-align: right;}
+.css_ordem_label, .css_ordem_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_ordem_grid_line, .css_ordem_grid_line:hover {vertical-align: top;text-align: left;}
+.css_status_label, .css_status_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_status_grid_line, .css_status_grid_line:hover {vertical-align: top;text-align: left;}
+.css_modelo_label, .css_modelo_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_modelo_grid_line, .css_modelo_grid_line:hover {vertical-align: top;text-align: left;}
+.css_descricao_label, .css_descricao_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_descricao_grid_line, .css_descricao_grid_line:hover {vertical-align: top;text-align: left;}
+.css_qtd_label, .css_qtd_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_qtd_grid_line, .css_qtd_grid_line:hover {vertical-align: top;text-align: left;}
+.css_vendedor_label, .css_vendedor_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_vendedor_grid_line, .css_vendedor_grid_line:hover {vertical-align: top;text-align: left;}
+.css_data_venda_label, .css_data_venda_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_data_venda_grid_line, .css_data_venda_grid_line:hover {vertical-align: top;text-align: center;}
+.css_id_dealer_label, .css_id_dealer_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_dealer_grid_line, .css_id_dealer_grid_line:hover {vertical-align: top;text-align: right;}

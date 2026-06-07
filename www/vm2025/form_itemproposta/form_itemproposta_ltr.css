@@ -1,0 +1,36 @@
+.css_modelo__label, .css_modelo__label span{ }
+.css_modelo__label span  span{line-height:1.5;}
+.css_modelo__line, .css_modelo__line span{ }
+.css_modelo__line span  span{line-height:1.5;}
+.css_modelo__obj, .css_modelo__obj span{ }
+.css_modelo__obj span  span{line-height:1.5;}
+.css_descricao__label, .css_descricao__label span{ }
+.css_descricao__label span  span{line-height:1.5;}
+.css_descricao__line, .css_descricao__line span{ }
+.css_descricao__line span  span{line-height:1.5;}
+.css_descricao__obj, .css_descricao__obj span{ }
+.css_descricao__obj span  span{line-height:1.5;}
+.css_unit__label, .css_unit__label span{ }
+.css_unit__label span  span{line-height:1.5;}
+.css_unit__line, .css_unit__line span{text-align:left;}
+.css_unit__line span  span{line-height:1.5;}
+.css_unit__obj, .css_unit__obj span{text-align:left;}
+.css_unit__obj span  span{line-height:1.5;}
+.css_desconto__label, .css_desconto__label span{ }
+.css_desconto__label span  span{line-height:1.5;}
+.css_desconto__line, .css_desconto__line span{text-align:left;}
+.css_desconto__line span  span{line-height:1.5;}
+.css_desconto__obj, .css_desconto__obj span{text-align:left;}
+.css_desconto__obj span  span{line-height:1.5;}
+.css_qty__label, .css_qty__label span{ }
+.css_qty__label span  span{line-height:1.5;}
+.css_qty__line, .css_qty__line span{text-align:left;}
+.css_qty__line span  span{line-height:1.5;}
+.css_qty__obj, .css_qty__obj span{text-align:left;}
+.css_qty__obj span  span{line-height:1.5;}
+.css_subtotal__label, .css_subtotal__label span{ }
+.css_subtotal__label span  span{line-height:1.5;}
+.css_subtotal__line, .css_subtotal__line span{text-align:left;}
+.css_subtotal__line span  span{line-height:1.5;}
+.css_subtotal__obj, .css_subtotal__obj span{text-align:left;}
+.css_subtotal__obj span  span{line-height:1.5;}

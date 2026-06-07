@@ -1,0 +1,6 @@
+.css_contas_moeda_label, .css_contas_moeda_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_contas_moeda_grid_line, .css_contas_moeda_grid_line:hover {vertical-align: top;text-align: right;}
+.css_empresa_empresa_label, .css_empresa_empresa_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_empresa_empresa_grid_line, .css_empresa_empresa_grid_line:hover {vertical-align: top;text-align: right;}
+.css_saldo_label, .css_saldo_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_saldo_grid_line, .css_saldo_grid_line:hover {vertical-align: top;text-align: center;}

@@ -1,0 +1,48 @@
+.css_id_empresa__label, .css_id_empresa__label span{ }
+.css_id_empresa__label span  span{line-height:1.5;}
+.css_id_empresa__line, .css_id_empresa__line >span{ }
+.css_id_empresa__line span  span{line-height:1.5;}
+.css_id_empresa__obj, .css_id_empresa__obj span{ }
+.css_id_empresa__obj span  span{line-height:1.5;}
+.css_moeda__label, .css_moeda__label span{ }
+.css_moeda__label span  span{line-height:1.5;}
+.css_moeda__line, .css_moeda__line >span{ }
+.css_moeda__line span  span{line-height:1.5;}
+.css_moeda__obj, .css_moeda__obj span{ }
+.css_moeda__obj span  span{line-height:1.5;}
+.css_fob__label, .css_fob__label span{ }
+.css_fob__label span  span{line-height:1.5;}
+.css_fob__line, .css_fob__line >span{text-align:left;}
+.css_fob__line span  span{line-height:1.5;}
+.css_fob__obj, .css_fob__obj span{text-align:left;}
+.css_fob__obj span  span{line-height:1.5;}
+.css_peso__label, .css_peso__label span{ }
+.css_peso__label span  span{line-height:1.5;}
+.css_peso__line, .css_peso__line >span{ }
+.css_peso__line span  span{line-height:1.5;}
+.css_peso__obj, .css_peso__obj span{ }
+.css_peso__obj span  span{line-height:1.5;}
+.css_data__label, .css_data__label span{ }
+.css_data__label span  span{line-height:1.5;}
+.css_data__line, .css_data__line >span{ }
+.css_data__line span  span{line-height:1.5;}
+.css_data__obj, .css_data__obj span{ }
+.css_data__obj span  span{line-height:1.5;}
+.css_obs__label, .css_obs__label span{ }
+.css_obs__label span  span{line-height:1.5;}
+.css_obs__line, .css_obs__line >span{ }
+.css_obs__line span  span{line-height:1.5;}
+.css_obs__obj, .css_obs__obj span{ }
+.css_obs__obj span  span{line-height:1.5;}
+.css_id_modelo__label, .css_id_modelo__label span{ }
+.css_id_modelo__label span  span{line-height:1.5;}
+.css_id_modelo__line, .css_id_modelo__line >span{ }
+.css_id_modelo__line span  span{line-height:1.5;}
+.css_id_modelo__obj, .css_id_modelo__obj span{ }
+.css_id_modelo__obj span  span{line-height:1.5;}
+.css_minimo__label, .css_minimo__label span{ }
+.css_minimo__label span  span{line-height:1.5;}
+.css_minimo__line, .css_minimo__line >span{ }
+.css_minimo__line span  span{line-height:1.5;}
+.css_minimo__obj, .css_minimo__obj span{color:#FF0033;text-align:right;}
+.css_minimo__obj span  span{line-height:1.5;}
